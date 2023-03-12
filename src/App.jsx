@@ -18,9 +18,7 @@ function App() {
             className="bg-white border-[1px] border-white rounded-full w-14 h-14 text-2xl shadow-lg transition-all duration-500 group hover:bg-lightGrayishBlueButton hover:shadow-4xl hover:border-gray-500"
             aria-label="Random Color"
           >
-            <div className="transition-all duration-500 text-gray-400 group-hover:scale-125 group-hover:rotate-45 group-hover:text-gray-500">
-              <i className="bi bi-dice-5"></i>
-            </div>
+            <div className="bi bi-dice-5 transition-all duration-500 text-gray-400 group-hover:scale-125 group-hover:rotate-45 group-hover:text-gray-500"></div>
           </button>
           <p className="text-sm mt-2 text-gray-400 font-semibold">
             Random Color
