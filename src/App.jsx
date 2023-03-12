@@ -45,7 +45,7 @@ function App() {
         <ul className="flex gap-2 justify-center">
           <li>
             <a
-              href="https://rashidshamloo.github.com"
+              href="https://github.com/rashidshamloo"
               title="GitHub"
               target="_blank"
               className="hover:text-gray-600 transition-all duration-300"
