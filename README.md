@@ -47,6 +47,7 @@ https://user-images.githubusercontent.com/121501991/224519048-ea4e9f90-093b-4b96
 - Making changes to the grid layout based on different breakpoints
 - Force updating React components when needed
 - Writing and using utility functions in React
+- Using `sr-only` class in Tailwind CSS for accessibility
 
 ### Useful resources
 
