@@ -9,6 +9,7 @@ function App() {
   return (
     <>
       <main className="flex flex-col items-center justify-center mt-4">
+        <h1 className="sr-only">Testimonials</h1>
         <div className="flex flex-col items-center justify-center">
           <button
             onClick={() => {
